@@ -1,0 +1,28 @@
+name: CmplxDsgn
+favicon: null
+layout_spectrum: 0.901944772573188
+typography_spectrum: 0.8804276424925774
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.16430353070609272
+  lightness: 0.4158429796807468
+  saturation: 0.5055283103138208
+  rhythmicContrast: 0.706386381527409
+purpose: []
